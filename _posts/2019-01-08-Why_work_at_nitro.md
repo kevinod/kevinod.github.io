@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Why Work at Nitro?
 
@@ -7,4 +7,4 @@ At Nitro, we are changing the way the world works with documents, and leading th
 
 Why Nitro Engineering:    
 
-Engineering is a critical function at Nitro, developing the products and services at the heart and soul of our business today, and helping us realize our vision of smarter documents in the future. We have an incredibly talented and diverse Engineering team that cares, with a strong culture that believes in building the right things, and building them the right way. 
+Engineering is a critical function at Nitro, developing the products and services at the heart and soul of our business today, and helping us realize our vision of smarter documents in the future. We have an incredibly talented and diverse Engineering team that cares, with a strong culture that believes in building the right things, and building them the right way.
