@@ -1,7 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: This is the title of the blog post here!
+published: true
 ---
+
+## This is a H2 header
+This is some text here.
+
+I'll insert an image next:
+![]({{site.baseurl}}/)![Nitro_Pro_Icon.png]({{site.baseurl}}/_posts/Nitro_Pro_Icon.png)
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
