@@ -55,6 +55,7 @@ baseurl: ""
 
 permalink: /:title/
 
+prose:
 metadata:
   _posts:
     - name: "title"
