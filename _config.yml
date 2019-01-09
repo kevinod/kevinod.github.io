@@ -93,4 +93,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
