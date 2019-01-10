@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Nitro
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+As the fastest, smartest way to PDF, Nitro is on a mission to make the world a more productive place—and we’re succeeding one document at a time.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
+[https://www.gonitro.com/about/contact](https://www.gonitro.com/about/contact)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
